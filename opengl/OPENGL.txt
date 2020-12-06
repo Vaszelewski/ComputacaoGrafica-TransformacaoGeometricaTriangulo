@@ -1,0 +1,22 @@
+VIDEO YOUTUBE
+https://www.youtube.com/watch?v=1taGCskfxM0&t=406s
+
+INSTALAÇÃO
+https://paulocweger.wordpress.com/2016/05/28/configurando-opengl-no-codeblocks/
+
+freeglut-MinGW-3.0.0-1.mp:
+
+--copiar as pastas bin, include e lib para a pasta C:\Program Files (x86)\CodeBlocks\MinGW
+
+--localize o arquivo “freeglut.dll” (freeglut-MinGW-3.0.0-1.mp\freeglut\bin\x64) copie e cole em “C:\Windows”.
+
+--copiar o arquivo wizard.script para C:\Program Files (x86)\CodeBlocks\share\CodeBlocks\templates\wizard\glut e substituir
+
+--copiar o arquivo glut.cbp para C:\Program Files (x86)\CodeBlocks\share\CodeBlocks\templates e substituir
+
+Crie um novo projeto
+Projeto GLUT
+Dê um nome qualquer para o projeto
+Vá na clase “main.cpp” e clique duas vezes sobre ela.
+Compile e execute.
+
