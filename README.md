@@ -1,6 +1,12 @@
 # ComputacaoGrafica-TransformacaoGeometricaTriangulo
 Exercício prático proposto na disciplina de Computação Gráfica - Uniritter - 2019/2
 
+IDE: DEV C++
+
+API: OpenGL
+
+LINGUAGEM: C++
+
 ENUNCIADO:
 Criar um programa, na linguagem de sua preferência, para construir triângulos e realizar transformações geométricas básicas. Para tanto, ele deve implementar as seguintes características:
 
