@@ -1,5 +1,5 @@
 # ComputacaoGrafica-TransformacaoGeometricaTriangulo
-Exercício prática proposto na disciplina de Computação Gráfica - Uniritter - 2019/2
+Atividade prática proposta na disciplina de Computação Gráfica - Uniritter - 2019/2
 
 IDE: DEV C++
 
